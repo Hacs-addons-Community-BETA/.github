@@ -1,5 +1,5 @@
 # Hacs-addons-Community-BETA
-Introducing Hacs-addons-Community-BETA - the go-to company for top-of-the-line addons for HACS, the most popular unofficial component of Home Assistant. Our add-ons are designed to streamline your automation process and make your home smarter and more efficient than ever before. With a focus on quality and customer satisfaction, Hacs-addons-Community-BETA is the perfect choice for anyone looking to optimize their Home Assistant experience. Try our addons today and see the difference for yourself!
+Introducing Hacs-addons-Community-BETA - the go-to area for community addons for HACS, an unofficial component of Home Assistant. Our add-ons are designed to streamline your automation process and make your home smarter and more efficient than ever before. With a focus on quality and customer satisfaction, Hacs-addons-Community-BETA is the perfect choice for anyone looking to optimize their Home Assistant experience. Try our addons today and see the difference for yourself!
 \
 \
 \
